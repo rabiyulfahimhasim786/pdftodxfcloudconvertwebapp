@@ -1,4 +1,4 @@
- server path - /var/www/zunamelt.com/pdf.zunamelt.com
+ server path - /var/www/serverpath/mainfolderpath
  local path - ./media/
  11:26 PM
 
